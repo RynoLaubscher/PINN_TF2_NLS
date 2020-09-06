@@ -1,3 +1,4 @@
+#main program
 #import dependencies
 import tensorflow as tf
 from tensorflow.keras.layers import Dense, InputLayer
